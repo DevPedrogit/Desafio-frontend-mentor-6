@@ -1,0 +1,12 @@
+
+[33m02211b2[m HEAD@{1}: reset: moving to 02211b2
+[33m6b080eb[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: reset: moving to 6b080eb
+[33m02211b2[m HEAD@{3}: reset: moving to 02211b2
+[33m6b080eb[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{4}: pull: Fast-forward
+[33m02211b2[m HEAD@{5}: reset: moving to 02211b2
+[33m6b080eb[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{6}: commit: main modification
+[33m02211b2[m HEAD@{7}: commit: New image path correction
+[33m3a15139[m HEAD@{8}: commit: Image path correction
+[33m8172812[m HEAD@{9}: commit: correção de uma ',' no link do css
+[33mfd78620[m HEAD@{10}: commit: Updated the path of images and css, changed the language to English
+[33m73f4c00[m HEAD@{11}: commit (initial): Version initial
